@@ -1,7 +1,5 @@
 # **2023 인하대학교 SOCIAL IMPACT 해커톤 우수상**
 
-<img width="400" alt="팻말" src="https://github.com/I-Send-The-P/.github/assets/126947828/ecb4876a-f4ac-4754-a346-d36ce8962cd7">
-
 
 ### **피료해**
 
